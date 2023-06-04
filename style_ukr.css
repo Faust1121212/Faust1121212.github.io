@@ -174,12 +174,11 @@ nav ul li:hover > ul{
 .p{
   max-width:200px;
   
-}
-  .header nav ul li a {
-  
-    font-size: 8px;
-   
-}
+.logo{
+    font-size: 18px;
+    min-width:100px;
+    margin:10px;
+  }
   .logo{
   font-size: 24px;}
 
