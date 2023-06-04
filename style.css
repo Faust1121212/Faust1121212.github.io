@@ -36,6 +36,8 @@ background: #575757;;
 }
 
 .header {
+  postion:fixed;
+  z-index:3;
   min-width: 100vw;
   min-width: 100vw;
   max-height: 600px;
