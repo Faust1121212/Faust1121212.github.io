@@ -173,9 +173,11 @@ nav ul li:hover > ul{
   .logo{
     font-size: 24px;
   }
-  li{
-    font-size:12px;
-  }
+.header nav ul li a {
+   
+    font-size: 12px;
+;
+}
 
 }
 
