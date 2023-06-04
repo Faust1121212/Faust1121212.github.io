@@ -175,6 +175,13 @@ nav ul li:hover > ul{
   max-width:200px;
   
 }
+  .header nav ul li a {
+  
+    font-size: 8px;
+   
+}
+  .logo{
+  font-size: 24px;}
 
 }
 
