@@ -36,7 +36,7 @@ background: #575757;;
 }
 
 .header {
-  postion:fixed;
+  position:fixed;
   z-index:3;
   min-width: 100vw;
   min-width: 100vw;
@@ -173,7 +173,7 @@ nav ul li:hover > ul{
     
   }
   .logo{
-    font-size: 24px;
+    font-size: 18px;
   }
 .header nav ul li a {
    
