@@ -170,6 +170,9 @@ nav ul li:hover > ul{
     max-width:200px;
     
   }
+  .logo{
+    font-size: 24px;
+  }
 
 }
 
